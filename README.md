@@ -4,8 +4,8 @@
 
 ### Loki
 
-* [Loki](/monitoring/loki)
+* [Loki](/loki)
 
 ### Prometheus
 
-* [Prometheus](/monitoring/prometheus)
+* [Prometheus](/prometheus)
