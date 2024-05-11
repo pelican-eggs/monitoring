@@ -1,11 +1,9 @@
-## Please read the CONTRIBUTING.md before submitting PRs
+# Monitoring
 
-## [Monitoring](/monitoring/)
+## Loki
 
-### Loki
+* [Loki](/loki)
 
-* [Loki](/monitoring/loki)
+## Prometheus
 
-### Prometheus
-
-* [Prometheus](/monitoring/prometheus)
+* [Prometheus](/prometheus)
